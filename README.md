@@ -4,6 +4,8 @@
 
 ![github](https://github-readme-stats.vercel.app/api?username=jiehua1995)
 
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=jiehua1995)
+
 
 
 <!-- ### Hi there 👋 -->
