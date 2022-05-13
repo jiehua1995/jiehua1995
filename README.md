@@ -2,10 +2,9 @@
 
 ![count](https://komarev.com/ghpvc/?username=jiehua1995)
 
-![github](https://github-readme-stats.vercel.app/api?username=jiehua1995)
+![github](https://github-readme-stats.vercel.app/api?username=jiehua1995&show_icons=true)
 
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=jiehua1995)
-
 
 
 <!-- ### Hi there 👋 -->
