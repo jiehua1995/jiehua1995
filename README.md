@@ -1,25 +1,31 @@
+# Hi, I'm Jie Hua 👋
 
+![count](https://komarev.com/ghpvc/?username=jiehua1995)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiehua1995&show_icons=true&theme=radical)](https://github.com/jiehua1995)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiehua1995&layout=compact&theme=radical)](https://github.com/jiehua1995)
 
-![count](https://komarev.com/ghpvc/?username=jiehua1995)
+---
 
-![github](https://github-readme-stats.vercel.app/api?username=jiehua1995&show_icons=true)
+## 🛠️ My Open Source Projects
 
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=jiehua1995)
+### [hexo-theme-researcher](https://github.com/jiehua1995/hexo-theme-researcher)  
+A modern, responsive academic portfolio theme built with Tailwind CSS and DaisyUI — perfect for researchers.
 
+### [Quick_Launcher](https://github.com/jiehua1995/Quick_Launcher)  
+Cross-platform quick launcher to open apps, folders, or files on your computer — boost your productivity!
 
-<!-- ### Hi there 👋 -->
+### [LabLog](https://github.com/jiehua1995/LabLog)  
+A simple software to generate LabNote markdown files for scientists — organized, easy, and efficient.
 
-<!--
-**jiehua1995/jiehua1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming & Scripting:** Linux, Bash, R, JavaScript, CSS, EJS  
+- **Data Analysis:** Sequencing data, Proteomics, Multi-omics integration  
+- **Software & Frameworks:** Tailwind CSS, DaisyUI, Hexo  
+- **Other:** Cross-platform app development, markdown generation, pipeline automation  
+
+---
+
+Thanks for stopping by! Feel free to explore my repos and connect. 😊
